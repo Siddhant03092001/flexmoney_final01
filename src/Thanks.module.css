@@ -1,0 +1,16 @@
+.Thank{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 500;
+    min-height: 100vh;
+   
+
+}
+.Container{
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px  0 0 gray;
+    padding: 40px 60px;
+}
